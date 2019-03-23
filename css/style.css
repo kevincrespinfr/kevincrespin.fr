@@ -23,7 +23,7 @@ h5,
 h6 {
   color: #001418;
   margin: 0;
-  font-weight: 400;
+  font-weight: 500;
   font-family: 'AmbroiseFrancois-Regular', sans-serif;
 }
 
@@ -705,7 +705,7 @@ ol {
   }
   .main-menu {
     position: absolute;
-    background: #efefef;
+    background: white;
     width: 100%;
     z-index: 999;
     left: 0;
