@@ -2,7 +2,7 @@
 ------------------------------------
   Riddle - Portfolio
   Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 /*----------------------------------------*/
@@ -358,8 +358,9 @@ ol {
 }
 
 .site-logo {
-  font-size: 24px;
+  font-size: 25px;
   padding-top: 20px;
+  font-family: 'AmbroiseFrancois-Regular', sans-serif;
 }
 
 .main-menu ul {
