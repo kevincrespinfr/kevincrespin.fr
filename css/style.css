@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Ambroise Francois';
-    src: url('icon-fonts/AmbroiseFrancois-Regular.woff2') format('woff2'),
-        url('icon-fonts/AmbroiseFrancois-Regular.woff') format('woff');
+    src: url('/icon-fonts/AmbroiseFrancois-Regular.woff2') format('woff2'),
+        url('/icon-fonts/AmbroiseFrancois-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
