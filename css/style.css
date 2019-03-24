@@ -751,7 +751,7 @@ ol {
     display: none;
   }
   .section-title {
-    font-size: 60px;
+    font-size: 50px;
   }
   .portfolio-filter {
     text-align: center;
@@ -761,6 +761,6 @@ ol {
 /* small Mobile :320px. */
 @media only screen and (max-width: 479px) {
   .section-title {
-    font-size: 50px;
+    font-size: 30px;
   }
 }
