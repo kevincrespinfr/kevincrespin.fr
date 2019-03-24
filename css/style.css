@@ -550,7 +550,7 @@ ol {
 --------------------------*/
 .pic-frame {
   position: relative;
-  padding-left: 25px;
+  padding-left: 50px;
   padding-bottom: 25px;
   display: inline-block;
 }
@@ -562,7 +562,6 @@ ol {
   height: calc(100% - 25px);
   bottom: 0;
   left: 0;
-  border: 2px solid #000;
   z-index: 1;
 }
 
