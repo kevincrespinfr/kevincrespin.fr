@@ -566,7 +566,6 @@ ol {
 .social-links a:last-child {
   margin-right: 0;
 }
-
 /*------------------------
     About Page
 --------------------------*/
@@ -726,9 +725,6 @@ ol {
   }
   .portfolio-item {
     height: 350px;
-  }
-  .section-title {
-    font-size: 70px;
   }
 }
 
