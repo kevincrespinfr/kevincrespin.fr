@@ -1,10 +1,7 @@
 @font-face {
     font-family: 'Ambroise Francois';
-        font-family: 'Oswald';
     src: url('fonts/AmbroiseFrancois-Regular.woff2') format('woff2'),
         url('fonts/AmbroiseFrancois-Regular.woff') format('woff');
-    src: url('fonts/Oswald-Regular.woff2') format('woff2'),
-        url('fonts/Oswald-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
