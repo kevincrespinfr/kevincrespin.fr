@@ -509,12 +509,14 @@ ol {
 
 .portfolio-meta h2 {
   font-size: 24px;
+  text-align: center;
 }
 
 .portfolio-meta p {
   font-size: 14px;
   color: #a6a6a6;
   margin-bottom: 0;
+  text-align: center;
 }
 
 .portfolio-intro {
@@ -724,6 +726,9 @@ ol {
   }
   .portfolio-item {
     height: 350px;
+  }
+  .section-title {
+    font-size: 60px;
   }
 }
 
