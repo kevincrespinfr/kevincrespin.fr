@@ -1,7 +1,13 @@
 @font-face {
     font-family: 'Ambroise Francois';
+    font-family: 'Lato';
+    font-family: 'Crimson Text';
     src: url('fonts/AmbroiseFrancois-Regular.woff2') format('woff2'),
         url('fonts/AmbroiseFrancois-Regular.woff') format('woff');
+    src: url('font/Lato-Regular.woff2') format('woff2'),
+        url('font/Lato-Regular.woff') format('woff');
+    src: url('fonts/CrimsonText-Regular.woff2') format('woff2'),
+        url('fonts/CrimsonText-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -20,7 +26,7 @@
 html,
 body {
   height: 100%;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1,
@@ -29,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #001418;
+  color: #2b2b2b;
   margin: 0;
   font-weight: 400;
   font-family: 'Ambroise Francois';
@@ -37,8 +43,13 @@ h6 {
 
 p {
   font-size: 18px;
-  color: #545b62;
+  color: #2b2b2b;
   line-height: 1.8;
+  font-family: 'Crimson Text', sans-serif;
+}
+
+.linkjournal{
+  color: #C0C0C0;
 }
 
 img {
@@ -610,7 +621,7 @@ ol {
 }
 
 .blog-content h2 {
-  font-size: 24px;
+  font-size: 30px;
   margin-bottom: 15px;
 }
 
