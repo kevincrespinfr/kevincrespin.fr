@@ -1,11 +1,19 @@
 @font-face {
     font-family: 'Ambroise Francois';
-    font-family: 'Lato';
-    font-family: 'Crimson Text';
     src: url('fonts/AmbroiseFrancois-Regular.woff2') format('woff2'),
         url('fonts/AmbroiseFrancois-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
     src: url('font/Lato-Regular.woff2') format('woff2'),
         url('font/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Crimson Text';
     src: url('fonts/CrimsonText-Regular.woff2') format('woff2'),
         url('fonts/CrimsonText-Regular.woff') format('woff');
     font-weight: normal;
