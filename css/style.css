@@ -497,7 +497,7 @@ ol {
 }
 
 .portfolio-item:hover .pi-inner {
-  background: rgba(0, 20, 24, 0.8);
+  background: rgba(223, 242, 255, 0.5);
 }
 
 .portfolio-item:hover .pi-inner h2 {
