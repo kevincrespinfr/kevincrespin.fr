@@ -379,10 +379,9 @@ ol {
     Header Section
 --------------------------*/
 .header-section {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 20px;
   position: relative;
-  padding-block-end: 0px;
 }
 
 .site-logo {
@@ -425,11 +424,6 @@ ol {
 --------------------------*/
 .intro-section {
   padding: 110px 0;
-  padding-block-end: 130px;
-}
-
-.intro-section-journal {
-  padding-block-start: 10px 0;
 }
 
 /*------------------------
