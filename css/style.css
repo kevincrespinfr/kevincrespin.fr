@@ -107,6 +107,14 @@ ol {
   font-size: 70px;
 }
 
+.cover-image img{
+  width: 100%;
+  padding-right: 300px;
+  padding-left: 300px;
+  padding-top: 10px;
+
+}
+
 .section-title span {
   color: #979797;
 }
@@ -379,9 +387,10 @@ ol {
     Header Section
 --------------------------*/
 .header-section {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 20px;
   position: relative;
+  padding-block-end: 10px;
 }
 
 .site-logo {
@@ -424,6 +433,11 @@ ol {
 --------------------------*/
 .intro-section {
   padding: 110px 0;
+  padding-block-end: 130px;
+}
+
+.intro-section-journal {
+  padding-block-start: 10px 0;
 }
 
 /*------------------------
