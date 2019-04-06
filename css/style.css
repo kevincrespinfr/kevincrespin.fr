@@ -729,9 +729,9 @@ ol {
   .home-2.container {
     width: auto;
   }
-  .section-title {
+  /* .section-title {
     font-size: 35px;
-  }
+  } */
 }
 
 /* Medium screen : 992px. */
