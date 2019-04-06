@@ -729,9 +729,6 @@ ol {
   .home-2.container {
     width: auto;
   }
-  /* .section-title {
-    font-size: 35px;
-  } */
 }
 
 /* Medium screen : 992px. */
@@ -795,7 +792,7 @@ ol {
     display: none;
   }
   .section-title {
-    font-size: 35px;
+    font-size: 50px;
   }
   .portfolio-filter {
     text-align: center;
