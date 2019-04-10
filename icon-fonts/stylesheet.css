@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ambroise Francois';
+    src: url('AmbroiseFrancois-Regular.woff2') format('woff2'),
+        url('AmbroiseFrancois-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
