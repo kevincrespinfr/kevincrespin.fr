@@ -750,6 +750,7 @@ ol {
   .portfolio-item {
     height: 450px;
   }
+
 }
 
 /* Tablet :768px. */
@@ -811,6 +812,6 @@ ol {
   }
 
   #principal-title{
-    font-size: 40px;
+    font-size: 45px;
   }
 }
