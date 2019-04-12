@@ -809,4 +809,8 @@ ol {
   .portfolio-filter {
     text-align: center;
   }
+
+  #principal-title{
+    font-size: 50px;
+  }
 }
